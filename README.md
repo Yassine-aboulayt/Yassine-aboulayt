@@ -1,78 +1,79 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=header" alt="Yellow waving header" />
+<p align="center">
+  <img width="100%" src="assets/hero.svg" alt="Yassine Aboulayt — Web Development · YouCode · Morocco" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/Yassine-aboulayt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FFDE21&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Yassine+Aboulayt;Web+Development+%7C+HTML%2C+CSS+%26+JavaScript;Learning+and+building+every+day" alt="Hi, I'm Yassine Aboulayt. Web development with HTML, CSS, and JavaScript. Learning and building every day." />
-  </a>
+  <img width="900" height="34" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1300&color=38BDF8&center=true&vCenter=true&width=900&height=34&lines=Building+interactive+web+projects;Learning+through+code+and+real+projects" alt="Building interactive web projects. Learning through code and real projects." />
 </p>
 
-<img align="right" width="260" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG51dHVucTU2bHdyODhxdWQ3Z3MydTRkM2dleGtuOGRnaGoyb3prNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Animated developer working at a computer" />
-
-- 🔭 I’m building web projects and expanding my programming skills.
-- 🌱 I’m learning and practicing **C, JavaScript, Java, SQL, HTML, and CSS**.
-- 🎓 I’m part of **YouCode**, based in **Morocco**.
-- 🃏 One of my projects is [**Mythoria — Collectible Cards**](https://github.com/Yassine-aboulayt/mythoria-collectible-cards).
-- 📫 Reach me at [**yaboulayt01@icloud.com**](mailto:yaboulayt01@icloud.com).
-
-<br clear="right" />
-
-### ✍️ A little motivation
-
-> Keep learning. Keep building. Let every project teach you something new.
-
-## 🚀 Technologies & Tools
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<p align="center">
+  <a href="mailto:yaboulayt01@icloud.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=icloud&logoColor=38BDF8" alt="Email Yassine" /></a>
+  <a href="https://www.linkedin.com/in/yassine-aboulayt-80b336439/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="Yassine on LinkedIn" /></a>
 </p>
 
-### Technologies & Frameworks
+I build interactive web projects with HTML, CSS, JavaScript, and Tailwind CSS. At YouCode in Morocco, I’m expanding my programming and database skills with C, Java, and SQL.
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+## Selected projects
 
-### Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yassine-aboulayt/mythoria-collectible-cards">Mythoria · Collectible Cards</a></h3>
+      <p>An interactive fantasy trading card website. Open booster packs, collect cards, and build your own decks.</p>
+      <p><strong>HTML · Tailwind CSS · JavaScript</strong></p>
+      <p><a href="https://github.com/Yassine-aboulayt/mythoria-collectible-cards">View repository ↗</a> &nbsp; <a href="https://mythoria-collectible-cards-wbbj.vercel.app/">Live demo ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yassine-aboulayt/Site-Web-De-Fitness">Élan Fitness</a></h3>
+      <p>A multi-page fitness website with home, programmes, about, and contact pages. Built with HTML and CSS.</p>
+      <p><strong>HTML · CSS</strong></p>
+      <p><a href="https://github.com/Yassine-aboulayt/Site-Web-De-Fitness">View repository ↗</a> &nbsp; <a href="https://yassine-aboulayt.github.io/Site-Web-De-Fitness/">Live demo ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+## Toolkit
 
-## 🛠️ Featured Projects
+<table width="100%">
+  <tr>
+    <td width="20%"><strong>Web</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=38BDF8" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=38BDF8" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=38BDF8" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Programming</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=38BDF8" alt="C" />
+      <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=38BDF8" alt="Java" />
+      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square" alt="Windows" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=38BDF8" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
-- [**Mythoria — Collectible Cards**](https://github.com/Yassine-aboulayt/mythoria-collectible-cards) — An interactive fantasy trading card website built with HTML, Tailwind CSS, and JavaScript. Open booster packs, collect cards, and build decks.
-- [**Site Web de Fitness**](https://github.com/Yassine-aboulayt/Site-Web-De-Fitness) — A fitness website project built with HTML.
-
-## 🐍 Contribution Snake
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img width="100%" alt="Snake animation of my GitHub contributions" src="assets/github-snake.svg" />
+  <img width="100%" src="assets/github-snake.svg" alt="Snake animation of Yassine Aboulayt's GitHub contributions" />
 </picture>
-
-## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/Yassine-aboulayt">
-    <img src="https://streak-stats.demolab.com?user=Yassine-aboulayt&theme=dark&hide_border=true&background=0D1117&ring=FFDE21&fire=FFDE21&currStreakLabel=FFDE21" alt="Yassine Aboulayt's GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=Yassine-aboulayt&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&stroke=1E3A5F&sideLabels=94A3B8&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=64748B" alt="Yassine Aboulayt's GitHub contribution streak" />
   </a>
 </p>
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:yaboulayt01@icloud.com"><img src="https://img.shields.io/badge/Email-FFDE21?style=for-the-badge&logo=icloud&logoColor=0D1117" alt="Email Yassine" /></a>
-  <a href="https://www.linkedin.com/in/yassine-aboulayt-80b336439/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Yassine on LinkedIn" /></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=100&section=footer" alt="Yellow waving footer" />
