@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Yassine Aboulayt — Web development</title>
+  <desc id="desc">Web development at YouCode, Morocco. HTML, CSS, and JavaScript. A navy and cyan header with a decorative animated code panel.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#10263F"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".56" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1C4162"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1B2D"/>
+      <stop offset="1" stop-color="#0A1423"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#1573BD" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#1573BD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#74BAE6" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="rounded">
+      <rect x="1" y="1" width="1198" height="338" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="340" fill="url(#background)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <ellipse cx="1040" cy="110" rx="360" ry="270" fill="url(#glow)"/>
+    <path d="M0 0H1200" stroke="url(#edge)" stroke-width="6"/>
+    <path d="M592 340 720 0" fill="none" stroke="#74BCEE" stroke-opacity=".045" stroke-width="80"/>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <path d="M56 70h24" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+      <text x="93" y="76" font-size="17" font-weight="700" letter-spacing="3.5" fill="#7DD3FC">WEB DEVELOPMENT</text>
+      <text x="54" y="151" font-size="54" font-weight="700" letter-spacing="-1.6" fill="#F1F7FF">Yassine Aboulayt</text>
+      <text x="57" y="195" font-size="23" fill="#A4B8CE">YouCode</text>
+      <circle cx="164" cy="188" r="2.5" fill="#4082B0"/>
+      <text x="180" y="195" font-size="23" fill="#A4B8CE">Morocco</text>
+
+      <g font-size="15" font-weight="700" letter-spacing="1">
+        <rect x="56" y="240" width="91" height="36" rx="8" fill="#102C43" stroke="#225071"/>
+        <text x="101.5" y="263" text-anchor="middle" fill="#BAE6FD">HTML</text>
+        <rect x="158" y="240" width="77" height="36" rx="8" fill="#102C43" stroke="#225071"/>
+        <text x="196.5" y="263" text-anchor="middle" fill="#BAE6FD">CSS</text>
+        <rect x="246" y="240" width="143" height="36" rx="8" fill="#102C43" stroke="#225071"/>
+        <text x="317.5" y="263" text-anchor="middle" fill="#BAE6FD">JAVASCRIPT</text>
+      </g>
+    </g>
+
+    <g>
+      <rect x="690" y="51" width="456" height="238" rx="14" fill="#000814" opacity=".24" transform="translate(0 7)"/>
+      <rect x="690" y="51" width="456" height="238" rx="14" fill="url(#panel)" stroke="#29425D"/>
+      <path d="M690 96h456" stroke="#20374D"/>
+      <g fill="#3B536D">
+        <circle cx="716" cy="74" r="4"/>
+        <circle cx="733" cy="74" r="4"/>
+        <circle cx="750" cy="74" r="4"/>
+      </g>
+      <text x="780" y="79" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#7E9CB8">developer.js</text>
+      <circle cx="1119" cy="74" r="4" fill="#38BDF8">
+        <animate attributeName="opacity" values="1;.35;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+
+      <g font-family="Consolas, 'Courier New', monospace" font-size="18">
+        <text x="716" y="132"><tspan fill="#7DD3FC">const</tspan><tspan fill="#DCEBFA"> developer = {</tspan></text>
+        <text x="737" y="167"><tspan fill="#9BAFC4">focus:</tspan><tspan fill="#67E8F9"> 'web development'</tspan><tspan fill="#DCEBFA">,</tspan></text>
+        <text x="737" y="202"><tspan fill="#9BAFC4">stack:</tspan><tspan fill="#DCEBFA"> [</tspan><tspan fill="#67E8F9">'HTML'</tspan><tspan fill="#DCEBFA">, </tspan><tspan fill="#67E8F9">'CSS'</tspan><tspan fill="#DCEBFA">,</tspan></text>
+        <text x="824" y="232"><tspan fill="#67E8F9">'JavaScript'</tspan><tspan fill="#DCEBFA">]</tspan></text>
+        <text x="716" y="264" fill="#DCEBFA">};</text>
+        <rect x="745" y="248" width="9" height="19" rx="1" fill="#38BDF8">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.45;.5;1" dur="1.8s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="none" stroke="#29435E"/>
+</svg>
