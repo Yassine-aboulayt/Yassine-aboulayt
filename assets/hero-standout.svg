@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Yassine Aboulayt — Web experiences with personality</title>
+  <desc id="desc">An original navy, cyan, and indigo visual identity for Yassine Aboulayt, a web developer at YouCode in Morocco. A geometric YA monogram sits beside the headline Web experiences with personality.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070D18"/>
+      <stop offset="1" stop-color="#0D1D33"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#2854C7" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#2854C7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#71DAFF"/>
+      <stop offset=".78" stop-color="#B8CEFF"/>
+      <stop offset="1" stop-color="#DCE7FF"/>
+    </linearGradient>
+    <linearGradient id="monogram" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#275FE8"/>
+      <stop offset=".55" stop-color="#36B8F5"/>
+      <stop offset="1" stop-color="#A3E9FF"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#233A60" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#0A1729" stop-opacity=".75"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect x="1" y="1" width="1198" height="378" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="380" fill="url(#background)"/>
+    <ellipse cx="974" cy="191" rx="354" ry="310" fill="url(#halo)"/>
+    <path d="M662 0 547 380" stroke="#B7D7FF" stroke-opacity=".035"/>
+    <path d="M704 0 589 380" stroke="#B7D7FF" stroke-opacity=".035"/>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="62" y="65" font-size="17" font-weight="700" letter-spacing="2.1" fill="#B3C8DE">YASSINE ABOULAYT <tspan fill="#3D6C92">/</tspan><tspan fill="#60D3FA"> WEB DEVELOPMENT</tspan></text>
+      <text x="58" y="153" font-size="62" font-weight="700" letter-spacing="-2.6" fill="#F5F9FF">Web experiences</text>
+      <text x="58" y="224" font-size="62" font-weight="700" letter-spacing="-2.6" fill="url(#headline)">with personality.</text>
+      <path d="M63 270h32" stroke="#4BCBF5" stroke-width="2"/>
+      <text x="110" y="277" font-size="22" fill="#98B0CA">YouCode <tspan fill="#3D6C92">·</tspan> Morocco</text>
+      <text x="63" y="344" font-size="12" font-weight="700" letter-spacing="2" fill="#577998">01 / INTRO</text>
+    </g>
+
+    <g>
+      <path d="M798 25 1141 116 1050 355 707 264Z" fill="#0F2443" fill-opacity=".28" stroke="#284A73" stroke-opacity=".5"/>
+      <rect x="754" y="63" width="345" height="250" rx="17" fill="url(#glass)" stroke="#365378" transform="rotate(-7 926.5 188)"/>
+      <path d="M739 148v-28a17 17 0 0 1 17-17h29M1073 273h28a17 17 0 0 0 17-17v-28" fill="none" stroke="#56C9F2" stroke-opacity=".62" stroke-width="2"/>
+
+      <g fill="none" stroke="#4772C7" stroke-opacity=".35">
+        <ellipse cx="933" cy="189" rx="202" ry="157" transform="rotate(-22 933 189)"/>
+        <path d="M733 188h16M1117 188h16M933 32v14M933 332v14"/>
+      </g>
+      <g transform="rotate(-22 933 189)">
+        <circle cx="1135" cy="189" r="4.5" fill="#65D9FF">
+          <animateTransform attributeName="transform" type="rotate" from="0 933 189" to="360 933 189" dur="28s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <path d="M788 119h34l46 65 46-65h34l-64 91v59h-32v-59Z" fill="#F1F8FF"/>
+      <path d="M982 119h31l71 150h-35l-15-33h-76l-15 33h-35Zm-11 89h50l-25-56Z" fill="url(#monogram)" fill-rule="evenodd"/>
+      <path d="m920 283 155-2" stroke="#62C9FF" stroke-opacity=".4" stroke-width="2"/>
+      <circle cx="1084" cy="281" r="3" fill="#65D9FF">
+        <animate attributeName="opacity" values=".25;.9;.25" dur="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <path d="M64 379h1072" stroke="#365278" stroke-opacity=".38"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="18" fill="none" stroke="#243B56"/>
+</svg>
